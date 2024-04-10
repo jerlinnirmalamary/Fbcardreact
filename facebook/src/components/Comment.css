@@ -1,0 +1,23 @@
+.commentbox{
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+   
+}
+.like{
+    color: rgb(19, 110, 213);
+}
+.smile{
+    font-size: 13px;
+  
+}
+.comment1,.comment2{
+    font-size: 14px;
+    color: gray;
+
+}
+hr{
+    width: 95%;
+    color: lightslategray;
+}

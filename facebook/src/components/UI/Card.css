@@ -1,0 +1,10 @@
+
+body{
+    background-color: rgb(103, 206, 200);
+}
+.mainbox{
+
+    height: fit-content;
+    background-color: white;
+    border-radius: 20px;
+}

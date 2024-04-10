@@ -1,0 +1,33 @@
+.comment{
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+    padding: 10px;
+   
+}
+.textarea{
+    border: none;
+    width: 250px;
+    border: 2px solid rgb(200, 155, 72);
+    border-radius: 5px;
+}
+
+.btn{
+    background-color: rgb(200, 155, 72);
+    border: none;
+    font-size: 10px;
+    color: white;
+    height: 40px;
+    width: 70px;
+
+}
+small{
+    color: red;
+    display: flex;
+    align-items: flex-start;
+    margin-left: 10px;
+    font-weight: 400;
+    font-style: italic;
+  
+}

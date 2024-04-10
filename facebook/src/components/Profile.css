@@ -1,0 +1,37 @@
+.box{
+    
+    width: 350px;
+    /* background-color: rgb(242, 156, 156); */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3px 15px;
+}
+.leftside{
+    display: flex;  
+}
+.img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.letter{
+    /* background-color: aqua; */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+
+}
+
+.span1{
+    font-size: 14px;
+    font-weight: bold;
+}
+.span2{
+    color: gray;
+    font-size: 10px;
+}
+.icon{
+    color: gray;
+}

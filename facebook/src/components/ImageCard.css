@@ -1,0 +1,20 @@
+.imagecard{
+    width: 380px;
+    height: 330px;
+    /* background-color: pink; */
+    margin: 0;
+ }
+.p{
+    text-align: left;
+    padding: 2px 0;
+    margin-left: 15px;
+    margin-top: 0;
+    color: gray;
+    font-size: 15px;
+}
+.imgcard{
+    height: 280px;
+    object-fit: cover;
+    width: 100%;
+ 
+}
